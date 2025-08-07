@@ -1,4 +1,4 @@
-# 🤖 Curso Prático de Inteligência Artificial com Python
+# 🤖 Inteligência Artificial com Python
 
 Este repositório contém notebooks organizados por temas centrais da Inteligência Artificial, com foco em aprendizado supervisionado, não supervisionado e técnicas de mineração de dados. Os exemplos são implementados em Python utilizando bibliotecas como `scikit-learn`, `statsmodels`, `mlxtend`, entre outras.
 

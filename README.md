@@ -42,7 +42,7 @@ Este repositório contém notebooks organizados por temas centrais da Inteligên
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/xaviermarcio/ia-projetos.git
    ```
 2. Acesse os notebooks diretamente pelo [Google Colab](https://colab.research.google.com/) ou Jupyter
 3. Execute os códigos, visualize os gráficos e estude cada técnica

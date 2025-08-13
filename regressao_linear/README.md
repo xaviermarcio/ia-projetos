@@ -1,4 +1,4 @@
-# 📊 Previsão de Vendas — Hortifruti La Rose (Agosto/2025)
+# 📊 Previsão de Vendas — Loja Fictícia (Agosto/2025)
 
 > **Aviso:** Os dados usados neste projeto são **fictícios**, criados apenas para fins de **estudo** e **demonstração**. Não representam resultados reais da empresa.
 
